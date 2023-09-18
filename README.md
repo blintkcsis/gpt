@@ -1,1 +1,1 @@
-# gpt
+# GPT based on nanoGPT
